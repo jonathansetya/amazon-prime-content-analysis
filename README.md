@@ -23,7 +23,7 @@ The main objectives of this analysis are to:
 The dataset used in this project is the **Amazon Prime Movies and TV Shows** dataset from Kaggle.
 
 **Kaggle Dataset:**
-https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
+[Amazon Prime Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 
 * Total records: **9,668 titles**
 * Movies: **7,814**
