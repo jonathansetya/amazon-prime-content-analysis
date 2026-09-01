@@ -23,7 +23,7 @@ The main objectives of this analysis are to:
 The dataset used in this project is the **Amazon Prime Movies and TV Shows** dataset from Kaggle.
 
 **Kaggle Dataset:**
-[Amazon Prime Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
+[Amazon Prime Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 
 * Total records: **9,668 titles**
 * Movies: **7,814**
@@ -33,7 +33,7 @@ The dataset used in this project is the **Amazon Prime Movies and TV Shows** dat
 
 * Google Sheets
 * Microsoft PowerPoint
-* Kaggle Dataset
+* Kaggle
 
 ## Analysis
 
@@ -75,18 +75,18 @@ Further analysis using viewing completion, audience engagement, and renewal data
 
 ## Project Files
 
-| File                                 | Description                                                   |
-| ------------------------------------ | ------------------------------------------------------------- |
-| `amazon-prime-content-analysis.xlsx` | Dataset, cleaned data, analysis, and dashboard                |
-| `amazon-prime-content-analysis.pptx` | Presentation containing the analysis results and key insights |
+| File                                         | Description                                                   |
+| -------------------------------------------- | ------------------------------------------------------------- |
+| `amazon-prime-content-analysis-dataset.xlsx` | Dataset, cleaned data, analysis, and dashboard                |
+| `amazon-prime-content-analysis.pptx`         | Presentation containing the analysis results and key insights |
 
 ## Conclusion
 
 The analysis shows that the Amazon Prime catalog has a strong concentration of recent content, with Drama being the most frequently appearing genre and single-season TV shows representing the majority of TV content.
 
-The findings demonstrate how basic data cleaning, exploratory analysis, and visualization can be used to identify patterns and generate business-oriented insights from a content dataset.
+The findings demonstrate how data cleaning, exploratory analysis, and visualization can be used to identify patterns and generate business-oriented insights from a content dataset.
 
 ## Source
 
 **Amazon Prime Movies and TV Shows Dataset**
-Kaggle: [Amazon Prime Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
+[View Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
